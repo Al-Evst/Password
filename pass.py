@@ -1,5 +1,6 @@
 import urwid
 
+
 def is_very_long(passwd:str):
     return len(passwd) >= 12 
 
